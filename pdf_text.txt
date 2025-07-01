@@ -1,0 +1,544 @@
+FloriGami
+Venture Viability Analysis
+REVA University, yelahanka Bengaluru 
+FloriGami
+We create eco-friendly DIY origami bouquet kits
+that let teenagers craft personalized,
+sustainable f
+REVA University, yelahanka BengaluruC o n t e x t
+The global gifting market is
+expected to grow at a CAGR
+of 6.1% between 2022 and
+2028
+3Problem
+Consumers struggle to find floral gifts that are both
+unique and eco-friendly, limiting their options for
+sustainable and personalized presents. Tradi
+Impact
+Consumers miss out on meaningful, personalized gifts;
+eco-conscious buyers compromise their values due to
+limited options; artisans struggle to sustai
+Problem Statement
+4Problem Statement/Industry
+Problem Being Solved
+Many people find it difficult to access eco-friendly,
+artistic, and customizable floral arrangements for
+special occasions. Traditional floral options are often
+wasteful, lack personalization, and do not cater to
+those looking for unique, sustainable gifting
+alternatives.Supporting Data
+The global gifting market is
+expected to grow at a CAGR of
+6.1% between 2022 and 2028
+Source: Global Gifting Market Trends Report,
+2023. NielsenIQ’s Sustainability Report, 2022.
+McKinsey's Con
+Area
+origamiIndustry
+Eco-friendly
+decorative origami
+flowersDomain
+OrigamiProblem Analysis
+Affected
+Stakeholders
+Consumers: Struggling to
+find unique, eco-friendly,
+and personalized floral
+gifts. Event Planners:
+Seeking sustainable and
+customizable decorations
+for occasions. Gifting
+Enthusiasts: Looking for
+innovative, memorable
+alternatives to traditional
+options. Eco-conscious
+Buyers: Preferring
+sustainable choices but
+finding limited
+availability. LocaImpact on
+Stakeholders
+Consumers: Miss out on
+unique and eco-friendly
+gifting options, leading to
+dissatisfaction and
+uninspired choices. Event
+Planners: Struggle to
+meet client demands for
+sustainable and creative
+decor, affecting client
+satisfaction. Gifting
+Enthusiasts: Feel limited
+by traditional options,
+reducing the personal
+impact of their gifts. Eco-
+consciousRoot
+Causes
+option. Accessibility
+Issues: Few platforms
+offer sustainable,
+customizable origami
+bouquets with delivery
+services. Preference for
+Tradition: A cultural
+tendency to favor fresh
+flowers over artistic
+alternatives. Cost
+Perception: Origami
+products are often
+perceived as expensive
+compared to traditional
+options. Artisan Support
+Gaps: Limited maPersonal/Team
+Connect
+ChatGPT said: As a team,
+we are deeply passionate
+about creativity,
+sustainability, and
+meaningful gifting
+experiences. Our love for
+art, particularly origami,
+drives us to showcase its
+beauty while addressing
+the environmental
+concerns of traditional
+floral products. We’ve
+personally witnessed the
+joy that handcrafted,
+thoughtful gifts bring to
+rePrimary
+Teenage students
+aged 13-19, active on
+social media, seeking
+unique, eco-friendly,
+and personalized
+Secondary
+{Enter segment title,
+EX: High school
+student -1}
+Target Customer Segments
+5Customer Segment & Persona
+Primary Segment
+Teenage students aged 13-19,
+active on social media, seeking
+unique, eco-friendly, and
+personalized
+Secondary Segment
+{Enter segment title, EX: High
+school student -1}
+Avinash
+Age in years: 18
+Location: Metropolitan
+Organizational Role:
+{Persona's primary role}
+(if applicable)PersonaJobs-to-be-Done
+Functional JTBD
+Student- understands concepts
+and applies it well, very craftyEmotional JTBD
+confident, creative, hard workingSocial JTBD
+appreciation, recognition and
+applausedCurrent Alternatives
+Current Alternatives
+online tutorials/ teachers
+Gaps in Current Alternatives
+fail to implement the ideaProblem Validation (GOOTB)
+Partial List of Potential Customers/Users
+Interviewed
+Name: avinash
+Occupation: Student 
+Name: yashwanth GS
+Occupation: Student 
+Name: sohan
+Occupation:studentProblem Validation
+Total customers/users
+interviewed:
+• In-person: 3 
+• Virtually: 1 
+Total customers/users for whom
+this problem is important to
+solve: 3
+Total customers/users who are
+dissatisfied with the current
+alternatives: 0Solution
+Custom Origami Bouquet Kits — Provide eco-friendly DIY
+kits with all materials and easy instructions, enabling
+teenagers to create personalized, sustainable floral gifts
+at home.
+Core Technologies/ Methodologies
+Sustainable and recycled paper sourcing for origami
+materials Biodegradable and recyclable packaging
+solutions Printed step-by-step DIY guides with
+Our Solution
+6Solution Design
+Solution Format:
+The solution will be a physical
+product—eco-friendCore Technologies/ Methodologies:
+Sustainable and recycled paper sourcing for origami materials
+Biodegradable and recyclable packaging solutions Printed step-
+by-step DIY guides withOur Solution
+Custom Origami Bouquet Kits —
+Provide eco-friendly DIY kits
+with all materials and easy
+instructions, enabling
+teenagers to create
+personalized, sustainable floral
+gifts at home.Key Features
+Eco-friendly, recycled origami
+paper and materials Clear,
+easy-to-follow printed and
+video instructions Customizable
+designs for different occasions
+and styles Biodegradable,
+attractive packaging wUniqueness
+What makes our Custom
+Origami Bouquet Kits unique is
+the combination of eco-friendly
+materials, personalized DIY
+experience, and collaboration
+with local artisans to offer
+exclusive origami designs. U Solution Benefits
+Functional
+Benefits
+Easily create beautiful,
+personalized floral gifts
+at home without
+needing special skills.
+Access eco-friendly and
+sustainable gifting
+options that reduce
+environmental impact.
+Save time by receivin Emotional
+Benefits
+A sense of pride and
+accomplishment from
+creating a unique,
+handcrafted gift. Joy in
+giving a thoughtful,
+personalized present
+that shows care and
+creativity. Satisfaction
+knowing they made an
+eco-f Social
+Benefits
+Recognition and
+admiration from peers
+for giving unique,
+creative gifts. Positive
+social image as
+someone who values
+sustainability and
+thoughtful gifting.
+Opportunities to share
+their creations on  Macro
+Benefits
+Our eco-friendly origami
+bouquet kits promote
+sustainable gifting by
+reducing reliance on
+fresh flowers, which
+often contribute to
+waste and carbon
+emissions. By using
+recycled materials and
+biodegrad Direct
+Ferns N Petals FlowerAura The Flower Story Origamify
+1-800-Flowers Interflora Bloom & Wild Omi Flowers
+Etsy Sellers (handmade origami/eco gifts) Pap
+Indirect
+Archies (greeting cards and gifts) Chumbak (quirky,
+artistic gifts and home decor) Sugarbox (perso
+Hallmark (greeting cards and gifts) Urban Outfitters
+(lifestyle and creative gifts) Uncommon Goods
+Our UVP
+FloriGami offers eco-friendly DIY origami bouquet kits
+that let teenagers craft unique, personalized
+Competitors
+7C o m p e t i t o r s
+D i r e c t
+C o m p e t i t o r s
+Ferns N Petals
+FlowerAura The
+Flower Story
+OrigamifyI n d i r e c t
+C o m p e t i t o r s
+Archies (greeting
+cards and gifts)
+Chumbak (quirky,
+artistic gifts and
+home decor)
+Sugarbox (persoD i r e c t
+C o m p e t i t o r s
+G l o b a l l y
+1-800-Flowers
+Interflora Bloom &
+Wild Omi Flowers
+Etsy Sellers
+(handmade
+origami/eco gifts)
+PapI n d i r e c t
+C o m p e t i t o r s
+G l o b a l l y
+Hallmark (greeting
+cards and gifts)
+Urban Outfitters
+(lifestyle and
+creative gifts)
+Uncommon GoodsMacro Analysis
+Favourable Trends
+AREA DESCRIPTION
+Other Origami
+Other Decorations
+Unfavourable Trends
+AREA DESCRIPTION
+Other AI graphics
+Other aritficial flowers
+Data Sources:
+McKinsey & Company Report on AI in Design, 2024 India Floral Industry Association Report, 2023Prototype
+Prototype Format
+FloriGami's prototype is a physical DIY kit with eco-friendly
+materials, live demos, and user feedba
+Functionality included in the Prototype
+The prototype will include: Eco-friendly materials (recycled paper).
+Biodegradable, customizable packaging. Printed and video step-by-
+step instructions. Sample bouquet designs showcasing customiza
+Functionality NOT included in the Prototype
+The prototype will exclude: Advanced customization tools like
+personalized design requests. Collaboration with artisans for
+exclusive designs. Bulk packaging or large-scale production features.
+In
+Prototype Validation
+Number of users
+engaged with?
+4How many people liked
+or loved the prototype?
+3How many people were
+either neutral or mostly
+unhappy with the
+prototype?
+1
+Prototype Feedback
+What aspects of the prototype did the users
+LOVE?
+Users loved how eco-friendly and sustainable the
+materials were. They found the instructions super
+easy to follow, especially with the video guides. The
+customizable designs felt perfect for making gifts
+more personal, and they really enjoyed the fun,
+hands-on experience of creating something unique
+themselves.What aspects of the prototype were DISLIKED
+by the users?
+Users thought the packaging was okay but not super
+exciting. Some said the instructions were clear but
+could use more pics to make it easier. A few didn’t like
+that there weren’t enough design options to choose
+from for different occasions.Competition Analysis
+COMPETITOR NAME TYPE STRENGTHS WEAKNESSES
+Ferns N Petal Indirect Established brand with a wide custo Primarily focuses on fresh flowers,
+Chumbak Indirect Known for quirky, artistic, and uni Focuses more on decor and lifestyle
+Etsy Direct Global marketplace with a wide rang No dedicated focus on DIY origami b
+Bloom & Wild Direct Specializes in personalized and cre Focuses on fresh flowers rather tha
+Our Product/Service will be better than the competitors' solutions because:
+FloriGami stands out by using eco-friendly recycled materials, offering a fun DIY personalized experience, and
+supporting local artisans with unique origami designs.Digital
+Consumers struggle to find floral gifts that are both unique
+and eco-friendly, limiting their options for sustainable and
+personalized presents. Tradi
+Physical
+Consumers miss out on meaningful, personalized gifts; eco-
+conscious buyers compromise their values due to limited
+options; artisans struggle to sustaiMarket Size
+Globally:
+The global gifting
+market is valued at
+$475B
+Growth Rate:
+lobal Artificial
+Flowers Market
+CAGR: 6.7% from 2
+Source: Research and Markets,
+India Floriculture Market Re
+Market Size & GTMGTM Channels
+8Market Size
+Total Addressable Market (TAM)
+The global gifting market is valued at $475B
+Serviceable Available Market (SAM)
+India’s urban gifting market is about $8 billion/y
+Serviceable Obtainable Market (SOM)
+1-2 lakhs
+Assumptions
+Focus on India’s urban and metropolitan regions, where gifting culture
+and eco-consciousness are growing fastest. Target teenagers aged 13-
+19, active on social media, seeking unique, sustainable, and
+60,
+1000
+Sources of Research
+Research and Markets, India Floriculture Market ReTAM
+SAM
+SOMRevenue Model
+(Primary)
+E-commerce Model
+Revenue Model
+(Secondary)
+E-commerce Model
+Revenue Models / PricingLean Canvas
+Problem
+Consumers
+struggle to
+find floral
+gifts that
+are both
+unique and
+eco-friendly,
+limiting their
+options for
+sustainable
+and
+personalized
+presents.
+Tradi Solution
+Custom Origami Bouquet
+Kits — Provide eco-friendly
+DIY kits with all materials
+and easy instructions,
+enabling teenagers to
+create personalized,
+sustainable floral gifts at
+home. 
+Key Metric
+How many kits we actually
+sell each month (shows if
+people really want it). How
+many folks come back for
+more (tells us if they loved
+the experience). What
+people say in reviews and
+ratings (real fe Unique value
+Proposition
+FloriGami offers eco-
+friendly DIY origami
+bouquet kits that let
+teenagers craft
+unique, personalizedUnfair Advantage
+We have exclusive
+partnerships with local
+artisans who create one-of-
+a-kind origami designs you
+can’t find anywhere else.
+Our deep passion for both
+sustainability and art
+means every kit is made
+f
+Channels
+Custom or amazonCustomer
+Segment
+Teenage
+students
+aged 13-19,
+active on
+social media,
+seeking
+unique, eco-
+friendly, and
+personalized
+,{Enter
+segment
+title, EX:
+High school
+student -1} 
+Cost Structure
+custom/amazonRevenue Streams
+E-commerce Model, E-commerce ModelGo-to-Market Approach
+Geographic Focus
+Top 5 Indian cities: Bengaluru, Mumbai, Delhi, Chennai, and
+Hyderabad. Focus on urban areas with eco-conscious and creative
+young audiences. 
+Digital Marketing Channels
+Instagram & TikTok: DIY
+videos and user creations.
+YouTube: Tutorials and
+behind-the-scenes. Facebook
+& Google Ads: Targeted eco-
+friendly campaigns. SEO:
+Rank for "DIY eco gifts."
+Email:Newslette
+Physical Marketing
+Channels
+Flyers: Distributed in schools,
+colleges, and community
+centers. Pop-up displays: At
+malls and craft fairs. Trade
+shows: Eco-friendly and
+gifting expos. Event
+sponsorships:PartnerwithPRIMARY CUSTOMER SEGMENT
+Teenage students aged 13-19,
+active on social media, seeking
+unique, eco-friendly, and
+personalized  
+UVP
+FloriGami offers eco-friendly DIY
+origami bouquet kits that let
+teenagers craft unique,
+personalized Marketing KPIs
+CAC: Track cost per customer.
+Conversion Rate: Leads to
+buyers. CLV: Total customer
+revenue. Social Media
+Engagement. Revenue Growth
+Rate. Repeat Purchase Rate.
+Website Traffic.
+Competitors' GTM
+Competitor #1: Ferns N Petals
+Strengths: Effective in digital
+ads (Google, Facebook) and
+seasonal promotions.
+Weaknesses: Limited
+influencer marketing and
+engagement with younger
+audiencesCompeti
+GTM Partners
+Partner with eco-conscious influencers, content agencies for
+tutorials, and digital firms for SEO. Collaborate with event organizers
+for fairs and schools. Use affiliates to cross-promote with similar Sales & Customer Service
+Customer Service
+Email Support: For detailed queries. Live Chat: Instant help on the
+website. Social Media DMs: Respond quickly to customer messages.
+Phone Support: Direct assistance for urgent issues. FAQ Section
+Distribution Channels
+Custom or amazon
+Digital Sales Channels
+Instagram Shop: For direct
+sales via social media.
+Amazon: To reach a broader
+audience. Etsy: Targeting
+global eco-conscious buyers.
+IndiaMART: For bulk orders
+and B2B customers. GeM:
+CateringtoPRIMARY CUSTOMER SEGMENT
+Teenage students aged 13-19, active
+on social media, seeking unique, eco-
+friendly, and personalized  
+UVP:
+FloriGami offers eco-friendly DIY
+origami bouquet kits that let
+teenagers craft unique, personalizedPhysical Sales Channels
+Local retail gift shops. Craft
+fairs and national trade
+exhibitions. Schools and
+colleges via eco-clubs or
+workshops. Pop-up stores in
+malls. CII expos for wider
+industry exposure.
+Sales KPIs
+Track success with: Revenue
+Growth: Monitor sales
+increase over time.
+Conversion Rate: Leads
+turning into customers.
+Average Deal Size: Value of
+each sale. Sales Cycle Length:
+Timetoclosedeals
+{Create a website}GTM Partners
+Digital: Use NPS and CSAT via email surveys or website pop-ups.
+Offline: Collect feedback through FGDs, interviews, and feedback
+cards at events or workshops. Social Media: Monitor comments and
+dire {Video link
+sample}
